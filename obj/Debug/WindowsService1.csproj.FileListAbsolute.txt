@@ -1,0 +1,9 @@
+C:\Users\swapn\OneDrive\Desktop\DELL-PC\intern\CashFlo_project1\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe.config
+C:\Users\swapn\OneDrive\Desktop\DELL-PC\intern\CashFlo_project1\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+C:\Users\swapn\OneDrive\Desktop\DELL-PC\intern\CashFlo_project1\WindowsService1\WindowsService1\bin\Debug\WindowsService1.pdb
+C:\Users\swapn\OneDrive\Desktop\DELL-PC\intern\CashFlo_project1\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csprojAssemblyReference.cache
+C:\Users\swapn\OneDrive\Desktop\DELL-PC\intern\CashFlo_project1\WindowsService1\WindowsService1\obj\Debug\WindowsService1.Form1.resources
+C:\Users\swapn\OneDrive\Desktop\DELL-PC\intern\CashFlo_project1\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.GenerateResource.cache
+C:\Users\swapn\OneDrive\Desktop\DELL-PC\intern\CashFlo_project1\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.CoreCompileInputs.cache
+C:\Users\swapn\OneDrive\Desktop\DELL-PC\intern\CashFlo_project1\WindowsService1\WindowsService1\obj\Debug\WindowsService1.exe
+C:\Users\swapn\OneDrive\Desktop\DELL-PC\intern\CashFlo_project1\WindowsService1\WindowsService1\obj\Debug\WindowsService1.pdb
